@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+h1 {
+  font-family: Arial, "Helvetica, sans-serif";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: bolder;
+  text-align: center;
+  text-justify: auto;
+  text-transform: uppercase;
+  color: rgb(252, 252, 252);
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  line-height: 40px;
+}
+
+p {
+font-size: 36px;
+line-height: 40px;
+line-height: 40px;
+text-indent: 5px;
+}
+a {
+  font-size: 30px;
+}
+
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+text-align: center;
+background-color: aquamarine;
+
+
+}
+
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  text-align: center;
+}
+
+.img-reddot {
+  width: 1000px;
+  height: 400px;
+  background-image: url(/starter/images/02-portfolio-1.jpg);
+  background-size: cover;
+  background-position: center;
+  
+  
+}
